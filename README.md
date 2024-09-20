@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm S. B. Yaseen Basha</h1>
-<h3 align="center">A passionate DevOps learner and Software Tester from India!</h3>
+<h3 align="center">A passionate DevOps learner and Java Developer from India!</h3>
 
 - 🔭 I’m currently working on enhancing my skills in DevOps and Automation Testing
 - 🌱 I’m currently learning Cloud Technologies and CI/CD Pipelines
-- 💬 Ask me anything about Software Testing, Java, and Databases
+- 💬 Ask me anything about Java, Linux and Databases
 - 📫 How to reach me: shaikyaseen7962@gmail.com
 - ⚡ Fun fact: I have a background in Mechanical Engineering!
 

@@ -1,5 +1,5 @@
 # 👋 Hi, I’m S. B. Yaseen Basha!
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/s-b-yaseen-basha-5b2226192/)) ![Profile Views](https://komarev.com/ghpvc/?username=yaseen796&color=blue&style=flat-square)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-b-yaseen-basha-5b2226192/) ![Profile Views](https://komarev.com/ghpvc/?username=yaseen796&color=blue&style=flat-square)
 
 - 🎓 I have a Bachelor’s degree in Mechanical Engineering
 - 🌱 I’m currently learning DevOps, Java and Software Testing

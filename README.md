@@ -1,8 +1,10 @@
 # 👋 Hi, I’m S. B. Yaseen Basha!
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-b-yaseen-basha-5b2226192/) ![Profile Views](https://komarev.com/ghpvc/?username=yaseen796&color=blue&style=flat-square)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-b-yaseen-basha-5b2226192/) 
+[![Gmail Badge](https://img.shields.io/badge/Email-%23D14836.svg?style=square&logo=gmail&logoColor=white)](mailto:shaikyaseen7962@gmail.com) 
+![Profile Views](https://komarev.com/ghpvc/?username=yaseen796&color=blue&style=flat-square)
 
 - 🎓 I have a Bachelor’s degree in Mechanical Engineering
-- 🌱 I’m currently learning DevOps, Java and Software Testing
+- 🌱 I’m currently learning DevOps, Java, and Software Testing
 - 💞️ I’m looking to collaborate on Software Testing, Automation, and DevOps projects
 - 📫 How to reach me: email at shaikyaseen7962@gmail.com
 
@@ -39,6 +41,3 @@
 ***
 
 ⭐️ From [yaseen796](https://github.com/yaseen796)
-
-
-

@@ -1,7 +1,5 @@
 # 👋 Hi, I’m S. B. Yaseen Basha!
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-b-yaseen-basha-5b2226192/) 
-[![Gmail Badge](https://img.shields.io/badge/Email-%23D14836.svg?style=square&logo=gmail&logoColor=white)](mailto:shaikyaseen7962@gmail.com) 
-![Profile Views](https://komarev.com/ghpvc/?username=yaseen796&color=blue&style=flat-square)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-b-yaseen-basha-5b2226192/) ![Profile Views](https://komarev.com/ghpvc/?username=yaseen796&color=blue&style=flat-square) ![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)
 
 - 🎓 I have a Bachelor’s degree in Mechanical Engineering
 - 🌱 I’m currently learning DevOps, Java, and Software Testing
@@ -39,5 +37,18 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
 
 ***
+
+## 🏆 Projects
+
+### 1. Library Management System
+- Developed a comprehensive system to manage library operations, including book borrowing, returning, and member management.
+
+### 2. Linear Programming Problem Solver
+- Created a Java-based application that solves linear programming problems using the simplex method.
+
+### 3. Pharmaceutical Database Management
+- Designed and implemented a database to manage pharmaceutical inventory and transactions.
+
+---
 
 ⭐️ From [yaseen796](https://github.com/yaseen796)

@@ -1,37 +1,42 @@
-<h1 align="center">Hi 👋, I'm S. B. Yaseen Basha</h1>
-<h3 align="center">A passionate DevOps learner and Java Developer from India!</h3>
+# 👋 Hi, I’m S. B. Yaseen Basha!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) ![Profile Views](https://komarev.com/ghpvc/?username=yaseen796&color=blue&style=flat-square)
 
-- 🔭 I’m currently working on enhancing my skills in DevOps and Automation Testing
-- 🌱 I’m currently learning Cloud Technologies and CI/CD Pipelines
-- 💬 Ask me anything about Java, Linux and Databases
-- 📫 How to reach me: shaikyaseen7962@gmail.com
-- ⚡ Fun fact: I have a background in Mechanical Engineering!
+- 🎓 I have a Bachelor’s degree in Mechanical Engineering
+- 🌱 I’m currently learning DevOps and Automation Testing
+- 💞️ I’m looking to collaborate on Software Testing, Automation, and DevOps projects
+- 📫 How to reach me: email at shaikyaseen7962@gmail.com
 
-### Connect with me:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/yaseen796">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="mailto:shaikyaseen7962@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+***
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,postgresql,mysql,linux,git,github,html,css,aws&perline=5)](https://skillicons.dev)
+<p align="center">
+<a href="https://github.com/yaseen796">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yaseen796&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yaseen796&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yaseen796&theme=dark"/>
+</p>
 
-### 📊 GitHub Stats:
-![Yaseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaseen796&show_icons=true&theme=dark)
+***
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaseen796&theme=dark)
+## 🛠 Tech Stack
 
-### Projects:
-- **[Library Management System](https://github.com/your-username/Library-Management-System):** A Java-based application for managing library resources, including books, members, and borrowing records.
-- **[Linear Programming Problem Solver](https://github.com/your-username/Linear-Programming-Problem-Solver):** A tool to solve linear programming problems using Java, focusing on providing solutions for optimization problems.
-- **[Hospital Database](https://github.com/your-username/Hospital-Database):** A PostgreSQL-based database system to manage hospital data, including patients, doctors, and appointments.
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=336791)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)\
+![HTML5](https://img.shields.io/badge/-HTML_5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS_3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)\
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)\
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
 
-<br>
-⭐️ From [yaseen796](https://github.com/yaseen796) likes this
+***
+
+⭐️ From [yaseen796](https://github.com/yaseen796)
+

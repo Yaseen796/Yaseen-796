@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) ![Profile Views](https://komarev.com/ghpvc/?username=yaseen796&color=blue&style=flat-square)
 
 - 🎓 I have a Bachelor’s degree in Mechanical Engineering
-- 🌱 I’m currently learning DevOps and Automation Testing
+- 🌱 I’m currently learning DevOps and Java and Software Testing
 - 💞️ I’m looking to collaborate on Software Testing, Automation, and DevOps projects
 - 📫 How to reach me: email at shaikyaseen7962@gmail.com
 

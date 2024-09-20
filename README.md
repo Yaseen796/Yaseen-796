@@ -1,10 +1,10 @@
 # 👋 Hi, I’m S. B. Yaseen Basha!
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-b-yaseen-basha-5b2226192/) ![Profile Views](https://komarev.com/ghpvc/?username=yaseen796&color=blue&style=flat-square) ![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-b-yaseen-basha-5b2226192/) ![Profile Views](https://komarev.com/ghpvc/?username=yaseen796&color=blue&style=flat-square)
 
 - 🎓 I have a Bachelor’s degree in Mechanical Engineering
 - 🌱 I’m currently learning DevOps, Java, and Software Testing
 - 💞️ I’m looking to collaborate on Software Testing, Automation, and DevOps projects
-- 📫 How to reach me: email at shaikyaseen7962@gmail.com
+- 📫 How to reach me: email at [shaikyaseen7962@gmail.com](mailto:shaikyaseen7962@gmail.com)
 
 ***
 
@@ -38,17 +38,20 @@
 
 ***
 
-## 🏆 Projects
+## 🚀 Projects
 
 ### 1. Library Management System
-- Developed a comprehensive system to manage library operations, including book borrowing, returning, and member management.
+- **Description**: A system to manage library operations, including book issuance, returns, and member management.
+- **Technologies Used**: Java, MySQL, HTML, CSS, JavaScript
 
 ### 2. Linear Programming Problem Solver
-- Created a Java-based application that solves linear programming problems using the simplex method.
+- **Description**: An application to solve linear programming problems using the simplex method.
+- **Technologies Used**: Java, MySQL, HTML, CSS
 
-### 3. Pharmaceutical Database Management
-- Designed and implemented a database to manage pharmaceutical inventory and transactions.
+### 3. Pharmaceutical Database Management System
+- **Description**: A comprehensive system for managing pharmaceutical inventory, sales, and customer details.
+- **Technologies Used**: Java, PostgreSQL, HTML, CSS, JavaScript
 
----
+***
 
 ⭐️ From [yaseen796](https://github.com/yaseen796)

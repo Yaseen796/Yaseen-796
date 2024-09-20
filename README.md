@@ -48,10 +48,6 @@
 - **Description**: An application to solve linear programming problems using the simplex method.
 - **Technologies Used**: Java, MySQL, HTML, CSS
 
-### 3. Pharmaceutical Database Management System
-- **Description**: A comprehensive system for managing pharmaceutical inventory, sales, and customer details.
-- **Technologies Used**: Java, PostgreSQL, HTML, CSS, JavaScript
-
 ***
 
 ⭐️ From [yaseen796](https://github.com/yaseen796)
